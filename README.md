@@ -36,7 +36,7 @@ A modern Bengali news platform designed to bring headlines, current affairs, and
 
 <div align="center">
 
-<img src="./public/screenshots/homepage.png" width="100%" alt="BanglaNews24 Newsroom Homepage"/>
+<img src="./preview/homepage.png" width="100%" alt="BanglaNews24 Newsroom Homepage"/>
 
 **The homepage — your starting point for the latest news.**
 
@@ -58,7 +58,7 @@ From developments in Bangladesh to international affairs, business, technology, 
 <tr>
 <td width="50%" valign="top">
 
-<img src="./public/screenshots/latest-news.png" width="100%" alt="Latest News"/>
+<img src="./preview/latest-news.png" width="100%" alt="Latest News"/>
 
 ### Latest Headlines
 
@@ -67,7 +67,7 @@ Explore recent stories and follow developing events.
 </td>
 <td width="50%" valign="top">
 
-<img src="./public/screenshots/bangladesh-news.png" width="100%" alt="Bangladesh News"/>
+<img src="./preview/bangladesh-news.png" width="100%" alt="Bangladesh News"/>
 
 ### Bangladesh
 
@@ -78,7 +78,7 @@ Discover national developments, public affairs, and local news.
 <tr>
 <td width="50%" valign="top">
 
-<img src="./public/screenshots/world-news.png" width="100%" alt="World News"/>
+<img src="./preview/world-news.png" width="100%" alt="World News"/>
 
 ### World Affairs
 
@@ -87,18 +87,19 @@ Follow international events and global developments.
 </td>
 <td width="50%" valign="top">
 
-<img src="./public/screenshots/business-news.png" width="100%" alt="Business News"/>
+<img src="./preview/business-news.png" width="100%" alt="Business News"/>
 
 ### Business & Economy
 
 Explore business news, economic developments, and market stories.
+
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="./public/screenshots/sports-news.png" width="100%" alt="Sports News"/>
+<img src="./preview/sports-news.png" width="100%" alt="Sports News"/>
 
 ### Sports
 
@@ -107,7 +108,7 @@ Follow sporting events, competitions, and results.
 </td>
 <td width="50%" valign="top">
 
-<img src="./public/screenshots/technology-news.png" width="100%" alt="Technology News"/>
+<img src="./preview/technology-news.png" width="100%" alt="Technology News"/>
 
 ### Technology
 
@@ -119,7 +120,7 @@ Discover technology developments and the digital world.
 
 </div>
 
-> Replace these image paths with screenshots of the corresponding pages on your website. Remove any category that your application does not currently support.
+
 
 ---
 
@@ -201,7 +202,7 @@ flowchart TD
 
 <img src="https://github.com/IamSahedRana.png" width="100" alt="Sahed Rana GitHub profile"/>
 
-### Sahed Rana
+### Abdulla Sahed
 
 Developer of BanglaNews24
 
