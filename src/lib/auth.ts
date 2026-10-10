@@ -26,6 +26,10 @@ export const auth = betterAuth({
       clientSecret: process.env.GITHUB_CLIENT_SECRET as string,
     },
   },
+  trustedOrigins: [
+    "https://bangla-news24-orcin.vercel.app",
+    "http://localhost:3000",
+  ],
   // Pass the db directly as recommended by Better Auth docs
   database: mongodbAdapter(db), 
 });
